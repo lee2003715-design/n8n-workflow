@@ -4,7 +4,7 @@
     {
       "parameters": {
         "method": "POST",
-        "url": "https://generativelanguage.googleapis.com/upload/v1beta/files?key=AIzaSyBF18LueiqtgPCWZCEO9zX8wF9rzWNijAQ",
+        "url": "https://generativelanguage.googleapis.com/upload/v1beta/files?key=YOUR_API_KEY",
         "sendHeaders": true,
         "headerParameters": {
           "parameters": [
@@ -35,7 +35,7 @@
     {
       "parameters": {
         "method": "POST",
-        "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyBF18LueiqtgPCWZCEO9zX8wF9rzWNijAQ",
+        "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=YOUR_API_KEY",
         "sendHeaders": true,
         "headerParameters": {
           "parameters": [
